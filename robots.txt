@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dilwatei.github.io/sitemap.html.gz
+Sitemap: https://dilwatei.github.io/app/sitemap.html.gz
+Sitemap: https://dilwatei.github.io/assets/sitemap.html.gz
+Sitemap: https://dilwatei.github.io/css/sitemap.html.gz
+Sitemap: https://dilwatei.github.io/data/sitemap.html.gz
+Sitemap: https://dilwatei.github.io/includes/sitemap.html.gz
+Sitemap: https://dilwatei.github.io/item/sitemap.html.gz
+Sitemap: https://dilwatei.github.io/src/sitemap.html.gz
